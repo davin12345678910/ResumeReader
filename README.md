@@ -1,13 +1,12 @@
-Parsely User Guide
+Resume parser User Guide
 
-	To develop Parsely, we used the Eclipse Integrated Development Environment (IDE) to write, store, and compile our code. Using Github, we were able
-to work collaboratively. Our code repository can be found at https://github.com/duaaz/Parsely. You will need to clone this repository with all our 
+	To develop Resume Parser, I used the JGrasp Integrated Development Environment (IDE) to write, store, and compile our code. My code can be found at my code repository https://github.com/davin12345678910/ResumeReader. You will need to clone this repository with all our 
 files onto your computer. To properly display some of the graphical interfaces (bell curves) included in our project, you will also need to  download
 the StdDraw pack from Princeton University at this link https://introcs.cs.princeton.edu/java/stdlib/. Using the Command Prompt, you will need to 
 navigate to the directory (folder) that you cloned the Parsely repository into. You can do this by using the cd (change directory) command to switch 
 directories (paths) until you reach the correct folder. In the Parsely folder is a jar titled ExecutableJar.jar, which you can use to run our program.
 The next thing that will be typed into the command prompt is ‘java -jar ExecutableJar.jar’. Our program will immediately start running. 
-	For reference, our main method that is being ran is Client.java in the src folder. When this is ran, you will be prompted to enter a list of required 
+	For reference, my main method that is being ran is Client.java in the src folder. When this is ran, you will be prompted to enter a list of required 
 skills (keywords you’re strictly looking for) for the job, separated by commas. Next, you will be prompted to enter in a list of desired skills separated
 by commas, which would add points to overall resumes and be used to set candidates apart from others. Keep in mind that these ‘skills’ can also just be 
 keywords you’re looking to spot out in a resume. For example if you’re hiring for a specific company and you’re giving special consideration to candidates 
